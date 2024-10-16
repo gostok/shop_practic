@@ -1,0 +1,58 @@
+[
+    {
+        "model": "goods_app.categories",
+        "pk": 6,
+        "fields": {
+            "name": "Все товары",
+            "slug": "all"
+        }
+    },
+    {
+        "model": "goods_app.categories",
+        "pk": 7,
+        "fields": {
+            "name": "Кухня",
+            "slug": "kuhnya"
+        }
+    },
+    {
+        "model": "goods_app.categories",
+        "pk": 8,
+        "fields": {
+            "name": "Спальня",
+            "slug": "spalnya"
+        }
+    },
+    {
+        "model": "goods_app.categories",
+        "pk": 9,
+        "fields": {
+            "name": "Гостинная",
+            "slug": "gostinnaya"
+        }
+    },
+    {
+        "model": "goods_app.categories",
+        "pk": 10,
+        "fields": {
+            "name": "Офис",
+            "slug": "ofis"
+        }
+    },
+    {
+        "model": "goods_app.categories",
+        "pk": 11,
+        "fields": {
+            "name": "Фурнитура",
+            "slug": "furnitura"
+        }
+    },
+    {
+        "model": "goods_app.categories",
+        "pk": 12,
+        "fields": {
+            "name": "Декор",
+            "slug": "dekor"
+        }
+    }
+]
